@@ -13,6 +13,6 @@ The Team Profile Generator provides managers to be able to generate a webpage th
 
 ## Links
 
-Deployed Application: 
+Deployed Application: https://mnijjar24.github.io/team-profile-generator/
 Github Repo: https://github.com/mnijjar24/team-profile-generator
-Link to walkthrough video:
+Link to walkthrough video: https://www.youtube.com/watch?v=3lNQad6z8Rc
