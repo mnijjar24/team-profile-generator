@@ -6,7 +6,9 @@ The Team Profile Generator provides managers to be able to generate a webpage th
 
 
 ## Screenshots of the Professional ReadMe Generator
+![1](https://user-images.githubusercontent.com/87215165/147310230-335a478a-91be-46f5-a068-3f42b3120768.png)
 
+![2](https://user-images.githubusercontent.com/87215165/147310240-f5853409-1a48-479e-a532-94d559909cd4.png)
 
 
 ## Links
